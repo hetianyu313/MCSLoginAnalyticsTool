@@ -1,0 +1,2 @@
+# MCSLoginAnalyticsTool
+适用于java版mc服务端日志的玩家登录统计分析系统
