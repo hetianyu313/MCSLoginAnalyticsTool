@@ -103,6 +103,7 @@ finder_html.exe
 - 玩家名必须**不包含空格**（仅支持字母、数字、下划线）
 - 日志文件必须是 `.log` 扩展名
 - 所有日志文件必须放在目录下
+- 需要安装插件`PotatoIpDisplay`:[https://github.com/dmzz-yyhyy/PotatoIpDisplay](https://github.com/dmzz-yyhyy/PotatoIpDisplay)
 
 ### 报告功能说明
 
