@@ -6,6 +6,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-AGPL3-green.svg)
 
+<img width="1894" height="951" alt="image" src="https://github.com/user-attachments/assets/a13c2745-69a3-455e-9603-fb3d95ac86c9" />
+
+
 ## ✨ 功能特性
 
 ### 📊 登录统计
