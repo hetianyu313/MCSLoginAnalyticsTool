@@ -42,12 +42,12 @@
 
 使用 **Visual Studio**:
 ```bash
-cl /EHsc /std:c++17 main.cpp /Fe:LogAnalyzer.exe
+cl /EHsc /std:c++17 finder_html.cpp /Fe:finder_html.exe
 ```
 
 使用 **MinGW-w64**:
 ```bash
-g++ -std=c++17 main.cpp -o LogAnalyzer.exe
+g++ -std=c++17 finder_html.cpp -o finder_html.exe
 ```
 
 使用 **CMake** (推荐):
@@ -64,8 +64,8 @@ add_executable(LogAnalyzer main.cpp)
 创建目录结构：
 ```
 项目目录/
-├── LogAnalyzer.exe
-└── 1/                    # 日志文件夹
+├── finder_html.exe
+└── xxxx/                    # 日志文件夹
     ├── server-2024-01-01.log
     ├── server-2024-01-02.log
     └── ...
@@ -74,7 +74,7 @@ add_executable(LogAnalyzer main.cpp)
 ### 3️⃣ 运行程序
 
 ```bash
-LogAnalyzer.exe
+finder_html.exe
 ```
 
 ### 4️⃣ 查看结果
@@ -102,7 +102,7 @@ LogAnalyzer.exe
 **重要规则**:
 - 玩家名必须**不包含空格**（仅支持字母、数字、下划线）
 - 日志文件必须是 `.log` 扩展名
-- 所有日志文件必须放在 `1/` 目录下
+- 所有日志文件必须放在目录下
 
 ### 报告功能说明
 
