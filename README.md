@@ -4,7 +4,7 @@
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-AGPL3-green.svg)
 
 ## ✨ 功能特性
 
@@ -207,7 +207,6 @@ LogAnalyzer.exe
 ## 🎨 界面预览
 
 报告采用现代化设计：
-- 🌈 **渐变配色** - 蓝紫色主题，视觉舒适
 - 📱 **响应式布局** - 支持桌面和移动设备
 - 🎯 **交互式组件** - 可展开详情、悬停效果
 - 🏆 **排名徽章** - 前三名特殊标识
